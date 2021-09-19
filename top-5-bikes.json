@@ -1,0 +1,66 @@
+
+  {
+    "model": "OVERVOLT EXPLORER 6.4 W B400",
+    "url": "https://www.lapierre-bike.cz/produkt/overvolt-explorer-64-w-b400/4990",
+    "main_photo_path": "https://mojekolo.online/foto/product/1100/lapierre-ebikes-overvolt-explorer-64-w-b400-2021-15-1847.JPG",
+    "additional_photo_paths": null,
+    "price": "71990",
+    "model_year": "2021",
+    "parameters": {
+      "weight": null,
+      "frame": "OV EXPLORER BOSCH SEMI INTEGRATED / LB3GS8A"
+    }
+  },
+  {
+    "model": "e-Sensium 2.2 W M250",
+    "url": "https://www.lapierre-bike.cz/produkt/esensium-22-w-m250/5946",
+    "main_photo_path": "https://mojekolo.online/foto/product/1100/lapierre-ebikes-esensium-22-w-m250-2022-17-9851.JPG",
+    "additional_photo_paths": null,
+    "price": "63990",
+    "model_year": "2021",
+    "parameters": {
+      "weight": null,
+      "frame": "E-SENSIUM WOMEN SUPREME 5 ALLOY  with integrated routing"
+    }
+  },
+  {
+    "model": "Lapierre eZesty AM LTD ULTIMATE",
+    "url": "https://www.lapierre-bike.cz/produkt/lapierre-ezesty-am-ltd-ultimate/5951",
+    "main_photo_path": "https://mojekolo.online/foto/product/1100/5-lapierre-lapierre-ezesty-am-ltd-ultimate-2020-5.JPG",
+    "additional_photo_paths": [
+      "https://mojekolo.online/foto/product/410/1-lapierre-lapierre-ezesty-am-ltd-ultimate-2020-1.JPG",
+      "https://mojekolo.online/foto/product/410/2-lapierre-lapierre-ezesty-am-ltd-ultimate-2020-2.JPG",
+      "https://mojekolo.online/foto/product/410/3-lapierre-lapierre-ezesty-am-ltd-ultimate-2020-3.JPG"
+    ],
+    "price": "206990",
+    "model_year": "2021",
+    "parameters": {
+      "weight": "18,6 kg",
+      "frame": "eZesty AM FULL CARBON ULTIMATE 150mm travel, BOOST, METRIC, THRU AXLE"
+    }
+  },
+  {
+    "model": "Lapierre Prorace 20 Girl",
+    "url": "https://www.lapierre-bike.cz/produkt/lapierre-prorace-20-girl/5988",
+    "main_photo_path": "https://mojekolo.online/foto/product/1100/lapierre-lapierre-prorace-20-girl-2021-3.JPG",
+    "additional_photo_paths": null,
+    "price": "8790",
+    "model_year": "2021",
+    "parameters": {
+      "weight": null,
+      "frame": "PRORACE 20ââ ALLOY SUPREME 4"
+    }
+  },
+  {
+    "model": "Lapierre Prorace 4.9",
+    "url": "https://www.lapierre-bike.cz/produkt/lapierre-prorace-49/5978",
+    "main_photo_path": "https://mojekolo.online/foto/product/1100/lapierre-lapierre-prorace-49-2021-2.JPG",
+    "additional_photo_paths": null,
+    "price": "45990",
+    "model_year": "2021",
+    "parameters": {
+      "weight": "12,6 kg",
+      "frame": "PRORACE 29\" SUPREME 5 ALLOY DISC, BOOST, PRESSFIT, THRU AXLE 12x148 INT BRAKE RR"
+    }
+  }
+]

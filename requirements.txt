@@ -1,0 +1,5 @@
+použité knihovy:
+re
+requests
+BeautifulSoup
+json
